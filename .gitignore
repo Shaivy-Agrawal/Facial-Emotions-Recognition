@@ -1,0 +1,5 @@
+train/
+videos/
+test/
+__pycache__/
+model_weights.h5
